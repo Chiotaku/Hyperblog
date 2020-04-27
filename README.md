@@ -7,5 +7,6 @@ Desarrolo en progreso de un espacio para ti :tw-1f338:
 ##
 *Creado por el increible wow
 *incluye guias
+*para todas las clases
 
 Proximamente
